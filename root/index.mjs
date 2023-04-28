@@ -1,6 +1,7 @@
 //! CLI command-line interface
+//* option 등 익숙하지 않은것들 확인하기. 
 // npm install commander.js 모듈 설치
-// git & pakahe.json 사용 및 활용 
+// git & pakage.json 사용 및 활용 
 import { program } from 'commander';
 import inquirer from 'inquirer';
 import fs from 'fs';
