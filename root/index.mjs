@@ -1,4 +1,4 @@
-//! CLI 
+//! CLI command-line interface
 // npm install commander.js 모듈 설치
 // git & pakahe.json 사용 및 활용 
 import { program } from 'commander';
