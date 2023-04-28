@@ -1,4 +1,6 @@
 import inquirer from "inquirer";
+//type: 'list',   name: ' ‘.  message: ' ', choices: ['','','' ]
+//type: * input, number , confirm , list, rawest, checkbox, password
 
 let todos = [];
 
